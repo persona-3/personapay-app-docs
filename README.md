@@ -24,7 +24,7 @@ To install Persona Pay, follow these steps:
    - After submitting your details, you’ll be redirected to Shopify’s Persona Pay app installation screen.
    - Click **Install** to complete the app installation in your Shopify store.
   
-   ![Connect your Store](https://github.com/persona-3/personapay-app-docs/blob/main/assets/connect-your-store.png)
+   ![Connect your Store](https://github.com/persona-3/personapay-app-docs/blob/main/assets/connect-store.png?raw=true)
 
 ---
 
