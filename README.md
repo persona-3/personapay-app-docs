@@ -49,7 +49,7 @@ Once the Persona Pay app is installed, follow these steps to add the CTA banner 
    - Position the banner where you’d like it to appear on the page.
    - Click **Save** to apply your changes.
 
-> **Tip**: For a detailed walkthrough, watch our step-by-step video tutorial: [Watch the video tutorial](https://github.com/username/repository-name/blob/main/assets/demo-video.mov?raw=true)
+> **Tip**: For a detailed walkthrough, watch our step-by-step video tutorial: [Download and watch the video tutorial](https://github.com/persona-3/personapay-app-docs/releases/download/v1/PersonaPay-App-Integration.mov)
 
 ![Add Thank you page CTA](https://github.com/persona-3/personapay-app-docs/blob/main/assets/theme-editor.png?raw=true)
 
