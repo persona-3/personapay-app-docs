@@ -51,9 +51,7 @@ Once the Persona Pay app is installed, follow these steps to add the CTA banner 
 
 > **Tip**: For a detailed walkthrough, watch our step-by-step video tutorial: [Watch the video tutorial](https://github.com/username/repository-name/blob/main/assets/demo-video.mov?raw=true)
 
-![Add Thank you page CTA](https://github.com/username/repository-name/blob/main/assets/theme-editor.png?raw=true)
-
-![Thank you page example](https://github.com/username/repository-name/blob/main/assets/thank-you-page.png?raw=true)
+![Add Thank you page CTA](https://github.com/persona-3/personapay-app-docs/blob/main/assets/theme-editor.png?raw=true)
 
 
 ---
@@ -61,6 +59,8 @@ Once the Persona Pay app is installed, follow these steps to add the CTA banner 
 ## Customer Interaction with the CTA Banner
 
 Once the CTA banner is live on your thank you page, your customers will be able to interact with it to claim discount coupons, encouraging repeat visits to your store.
+
+![Thank you page example](https://github.com/persona-3/personapay-app-docs/blob/main/assets/thank-you-page.png?raw=true)
 
 ---
 
